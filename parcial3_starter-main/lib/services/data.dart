@@ -1,6 +1,9 @@
 
 // login Usuario y Contraseña
-var loginData = ['Elio', '201908013'];
+class UserData {
+  static const String username = 'Elio'; 
+  static const String password = '201908013'; 
+}
 
 // clase de lugares
 class Place {

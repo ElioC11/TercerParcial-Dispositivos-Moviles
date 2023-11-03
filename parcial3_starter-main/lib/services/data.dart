@@ -1,6 +1,6 @@
 
 // login Usuario y Contraseña
-var loginData = ['elio', '201908013'];
+var loginData = ['Elio', '201908013'];
 
 // clase de lugares
 class Place {
